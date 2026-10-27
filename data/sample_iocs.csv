@@ -1,0 +1,7 @@
+indicator,type,source,confidence
+203.0.113.10,ipv4,DemoFeed,80
+198.51.100.20,ipv4,DemoFeed,60
+EXAMPLE.TEST,domain,DemoFeed,40
+https://Example.test/login,url,DemoFeed,50
+0000000000000000000000000000000000000000000000000000000000000000,sha256,DemoFeed,20
+203.0.113.10,ipv4,SecondDemoFeed,70
